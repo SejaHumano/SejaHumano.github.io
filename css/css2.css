@@ -1,0 +1,58 @@
+h1{
+	font-size: 20px;
+}
+
+h3 {
+	padding: 10px;
+   }
+
+body {
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+
+}
+h1,h2,h3 {
+	margin: 0;
+	font-family: "Roboto";
+	font-weight: 700;
+}
+nav {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.opções {
+	font-size: 17px;
+	padding-right: 30px;
+}
+.opções ul li{
+    margin-left: 10px;
+	display: inline-block;
+	font-weight: 700;
+}
+.opções ul li a {
+	text-decoration: none;
+	color: #30ace0;
+}
+.opções ul li a:hover {
+	text-decoration: underline;
+}
+header h1 {
+	padding: 20px;
+	color: #30ace0;
+	font-size: 25px;
+}
+.box {
+	width: 150px;
+	display: inline-block;
+	padding-right: 200px;
+}
+
+section h2 {
+	padding: 20px;
+	color: #30ace0;
+}
+article h2 {
+	padding: 20px;
+	color: #30ace0;
+
+}
