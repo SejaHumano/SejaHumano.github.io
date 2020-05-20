@@ -194,6 +194,44 @@ aside h2 {
 	align-items: center;
 	text-align: center;
 } 
+/* Recomendações */
+.recomendado h1{
+	font-size: 20px;
+}
+
+.recomendado h3 {
+	padding: 10px;
+   }
+
+.recomendado body {
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+
+}
+.recomendado h1,h2,h3 {
+	margin: 0;
+	font-family: "Roboto";
+	font-weight: 700;
+}
+.recomendado header h1 {
+	padding: 20px;
+	color: #30ace0;
+	font-size: 25px;
+}
+.recomendado .box {
+	width: 150px;
+	display: inline-block;
+	padding-right: 200px;
+}
+
+.recomendado section h2 {
+	padding: 20px;
+	color: #30ace0;
+}
+.recomendado article h2 {
+	padding: 20px;
+	color: #30ace0;
+
+}
 @media screen and (max-width: 768px) {.FotoT2{
 	padding: 30px;
 	display: flex;
