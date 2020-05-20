@@ -73,20 +73,6 @@ article h3 {
 article p {
 	font-family: "roboto", Arial;
 }
-article a {
-	color: #30ace0; 
-
-	text-decoration: none;
-}
-article a:hover {
-	text-decoration: underline;
-}
-aside h2 {
-	padding: 20px;
-	color: #30ace0;
-	font-weight: 700;
-
-}
 .Texto{
 	z-index: 10000000;
 }
