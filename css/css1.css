@@ -24,6 +24,7 @@ nav {
 }
 .opções ul li a {
 	text-decoration: none;
+	color:  #30ace0;
 }
 .opções ul li a:hover {
 	text-decoration: underline;
