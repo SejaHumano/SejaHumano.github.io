@@ -153,10 +153,10 @@ aside h2 {
 }
 /* Slide */
 .slick-list{
-	/* width: 100%!important; */
+	width: 100%!important;
 }
 .slick-initialized{
-	/* overflow-x: hidden; */
+	overflow-x: hidden;
 }
 .imagens{
 	left: 14%;
