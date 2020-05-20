@@ -235,6 +235,18 @@ aside h2 {
 /* Nossa Equipe */
 .membros{
 padding-top: 20px;
+color: #30ace0;
+}
+.nossa {
+	color: #30ace0;
+}
+.membros a {
+	text-decoration: none;
+	color: #30ace0;
+}
+.membros a:hover
+{
+	text-decoration: underline;
 }
 .nossaequipe{
 	display: flex;
@@ -244,6 +256,9 @@ padding-top: 20px;
 .texto{
 	padding-left: 14px;
     margin: auto;
+}
+.imagemzoom {
+	padding-left: 60px;
 }
 @media screen and (max-width: 768px) {.FotoT2{
 	padding: 30px;
